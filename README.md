@@ -6,7 +6,7 @@ Bem-vindo ao repositório de códigos em Java! Estes projetos foram desenvolvido
 - Java (JDK) instalado 
 - VSCode (ou outra IDE de sua preferência)
 
-## ⚙️Configuração⚙️
+## ⚙️ Configuração
 
 Siga as etapas abaixo:
 
