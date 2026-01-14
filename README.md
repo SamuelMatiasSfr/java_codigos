@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório de códigos em Java! Estes projetos foram desenvolvidos como atividades práticas da matéria Linguagem e Técnicas de Programação 2 no curso técnico de informática do CEFET-MG.
 
-## Requisitos:
+## ✔ Requisitos:
 - Java (JDK) instalado 
 - VSCode (ou outra IDE de sua preferência)
 
