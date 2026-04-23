@@ -16,8 +16,8 @@ Projeto de cadastro de pessoas aplicando o padrão Proxy para controlar acesso a
 ## Tecnologias usadas
 
 - Java
-- CSV
 - Padrão de Projeto Proxy
+- VS Code
 
 ## Como executar
 

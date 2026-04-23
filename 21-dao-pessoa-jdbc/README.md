@@ -21,6 +21,7 @@ Projeto de acesso a dados com padrão DAO para operações de pessoa em banco My
 - SQL
 - MySQL
 - Padrão de Projeto DAO
+- VS Code
 
 ## Como executar
 

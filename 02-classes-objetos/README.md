@@ -16,7 +16,7 @@ Projeto de introdução a Programação Orientada a Objetos com cadastro simples
 ## Tecnologias usadas
 
 - Java
-- CSV
+- VS Code
 
 ## Como executar
 

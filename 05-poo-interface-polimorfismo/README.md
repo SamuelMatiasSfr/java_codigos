@@ -16,6 +16,7 @@ Projeto que aplica interfaces para cálculo de tributos em diferentes tipos de o
 ## Tecnologias usadas
 
 - Java
+- VS Code
 
 ## Como executar
 

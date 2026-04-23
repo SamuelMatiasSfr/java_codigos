@@ -16,6 +16,7 @@ Projeto orientado a objetos com hierarquia de veículos para praticar herança e
 ## Tecnologias usadas
 
 - Java
+- VS Code
 
 ## Como executar
 

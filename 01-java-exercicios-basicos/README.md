@@ -18,6 +18,7 @@ Conjunto de atividades introdutórias para praticar fundamentos da linguagem Jav
 ## Tecnologias usadas
 
 - Java
+- VS Code
 
 ## Como executar
 

@@ -17,6 +17,7 @@ Jogo 2D com múltiplos objetos em queda, aplicando herança e polimorfismo no lo
 
 - Java
 - LibGDX
+- VS Code
 
 ## Como executar
 

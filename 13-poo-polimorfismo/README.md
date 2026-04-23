@@ -17,6 +17,7 @@ Projeto para demonstrar polimorfismo com classes de mamíferos e chamada dinâmi
 ## Tecnologias usadas
 
 - Java
+- VS Code
 
 ## Como executar
 

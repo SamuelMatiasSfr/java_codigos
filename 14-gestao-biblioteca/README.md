@@ -18,7 +18,7 @@ Sistema para gerenciar publicações de diferentes tipos com suporte a arquivo e
 
 - Java
 - Java Swing
-- CSV
+- VS Code
 
 ## Como executar
 

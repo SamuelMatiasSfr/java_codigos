@@ -18,6 +18,7 @@ Aplicação de chat distribuído com comunicação remota entre cliente e servid
 
 - Java
 - Java RMI
+- VS Code
 
 ## Como executar
 

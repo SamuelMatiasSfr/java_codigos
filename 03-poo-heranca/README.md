@@ -17,6 +17,7 @@ Projeto para demonstrar heran√ßa entre classes de animais e comportamento polim√
 ## Tecnologias usadas
 
 - Java
+- VS Code
 
 ## Como executar
 

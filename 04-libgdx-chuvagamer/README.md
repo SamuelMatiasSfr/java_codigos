@@ -19,6 +19,7 @@ Jogo 2D desenvolvido com LibGDX em que o jogador movimenta um balde para coletar
 
 - Java
 - LibGDX
+- VS Code
 
 ## Como executar
 

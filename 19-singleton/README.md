@@ -18,6 +18,7 @@ Projeto para praticar o padrão Singleton em um cenário de jogo simples com int
 - Java
 - Java Swing
 - Padrão de Projeto Singleton
+- VS Code
 
 ## Como executar
 

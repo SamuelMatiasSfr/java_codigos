@@ -16,7 +16,7 @@ Sistema de gerenciamento de contas com leitura de dados em CSV e separação por
 ## Tecnologias usadas
 
 - Java
-- CSV
+- VS Code
 
 ## Como executar
 

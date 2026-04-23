@@ -17,7 +17,7 @@ Aplicação Swing para cadastro de registros com operações CRUD e persistênci
 
 - Java
 - Java Swing
-- CSV
+- VS Code
 
 ## Como executar
 

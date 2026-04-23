@@ -18,6 +18,7 @@ Jogo da forca distribuído com servidor RMI responsável pela lógica e cliente 
 
 - Java
 - Java RMI
+- VS Code
 
 ## Como executar
 

@@ -18,6 +18,7 @@ Jogo LibGDX com monitoramento de memória da JVM para estudar comportamento do c
 - Java
 - LibGDX
 - JVM
+- VS Code
 
 ## Como executar
 

@@ -20,6 +20,7 @@ Projeto de conexão JDBC com MySQL para leitura de dados de uma base relacional.
 - JDBC
 - SQL
 - MySQL
+- VS Code
 
 ## Como executar
 

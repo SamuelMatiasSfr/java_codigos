@@ -19,7 +19,7 @@ Sistema distribuído para cadastro de pessoas com operações remotas e dados pe
 - Java
 - Java RMI
 - Java Swing
-- CSV
+- VS Code
 
 ## Como executar
 

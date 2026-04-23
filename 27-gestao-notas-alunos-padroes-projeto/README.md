@@ -20,6 +20,7 @@ Sistema de notas de alunos com DAO, Proxy e Singleton integrado a banco MySQL.
 - SQL
 - MySQL
 - Padrões de Projeto: DAO, Proxy e Singleton
+- VS Code
 
 ## Como executar
 

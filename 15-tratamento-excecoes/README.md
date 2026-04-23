@@ -17,7 +17,7 @@ Projeto com exemplos de exceções personalizadas e validações de regras de ne
 ## Tecnologias usadas
 
 - Java
-- Tratamento de exceções
+- VS Code
 
 ## Como executar
 

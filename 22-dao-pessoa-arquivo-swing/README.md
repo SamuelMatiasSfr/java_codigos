@@ -18,8 +18,8 @@ Aplicação com padrão DAO e interface gráfica para gerenciar cadastro de pess
 
 - Java
 - Java Swing
-- CSV
 - Padrão de Projeto DAO
+- VS Code
 
 ## Como executar
 

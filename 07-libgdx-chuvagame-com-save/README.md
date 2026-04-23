@@ -18,6 +18,7 @@ Versão do jogo de chuva com persistência de estado para continuar a partida.
 
 - Java
 - LibGDX
+- VS Code
 
 ## Como executar
 

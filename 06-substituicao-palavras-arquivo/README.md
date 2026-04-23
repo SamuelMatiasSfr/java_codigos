@@ -17,6 +17,7 @@ Ferramenta de console para pesquisar e substituir palavras em arquivos de texto.
 ## Tecnologias usadas
 
 - Java
+- VS Code
 
 ## Como executar
 

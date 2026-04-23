@@ -21,6 +21,7 @@ Aplicação desktop com interface Swing e operações CRUD persistidas em banco 
 - JDBC
 - SQL
 - MySQL
+- VS Code
 
 ## Como executar
 

@@ -18,6 +18,7 @@ Conjunto de aplicações desktop com interface gráfica para praticar eventos e 
 
 - Java
 - Java Swing
+- VS Code
 
 ## Como executar
 

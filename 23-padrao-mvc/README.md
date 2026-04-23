@@ -19,6 +19,7 @@ Projeto para organizar uma aplicação Java nas camadas Model, View e Controller
 - Java
 - Java Swing
 - Padrão de Projeto MVC
+- VS Code
 
 ## Como executar
 
