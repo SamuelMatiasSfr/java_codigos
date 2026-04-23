@@ -1,4 +1,4 @@
-# Coletor de Lixo Java
+﻿# Coletor de Lixo Java
 
 Jogo LibGDX com monitoramento de memória da JVM para estudar comportamento do coletor de lixo.
 
@@ -9,9 +9,9 @@ Jogo LibGDX com monitoramento de memória da JVM para estudar comportamento do c
 
 ## Funcionalidades
 
-- Executa gameplay com objetos em queda e pontuação
-- Exibe informações de memória da JVM em tempo de execução
-- Permite avaliar efeitos do coletor de lixo durante o jogo
+- Executar gameplay com objetos em queda e pontuação
+- Exibir informações de memória da JVM em tempo de execução
+- Permitir avaliar efeitos do coletor de lixo durante o jogo
 
 ## Tecnologias usadas
 
@@ -26,3 +26,4 @@ Jogo LibGDX com monitoramento de memória da JVM para estudar comportamento do c
 3. Abra a pasta 16-coletor-lixo-java em uma IDE Java
 4. Garanta que as bibliotecas da pasta libs estejam configuradas no classpath do projeto
 5. Execute a classe DesktopStarter no caminho src/gpjecc/blogspot/com
+

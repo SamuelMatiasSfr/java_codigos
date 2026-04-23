@@ -1,4 +1,4 @@
-# Proxy
+﻿# Proxy
 
 Projeto de cadastro de pessoas aplicando o padrão Proxy para controlar acesso aos dados.
 
@@ -9,9 +9,9 @@ Projeto de cadastro de pessoas aplicando o padrão Proxy para controlar acesso a
 
 ## Funcionalidades
 
-- Carrega registros de pessoas a partir do arquivo pessoal.csv
-- Encapsula operações de acesso por uma camada intermediária
-- Executa operações de consulta pelo programa principal
+- Carregar registros de pessoas a partir do arquivo pessoal.csv
+- Encapsular operações de acesso por uma camada intermediária
+- Executar operações de consulta pelo programa principal
 
 ## Tecnologias usadas
 
@@ -35,3 +35,4 @@ javac Main.java
 ```bash
 java Main
 ```
+

@@ -1,4 +1,4 @@
-# Exercícios Básicos de Java
+﻿# Exercícios Básicos de Java
 
 Conjunto de atividades introdutórias para praticar fundamentos da linguagem Java.
 
@@ -10,10 +10,10 @@ Conjunto de atividades introdutórias para praticar fundamentos da linguagem Jav
 
 ## Funcionalidades
 
-- Decompõe um número em posições de vetor
-- Exibe tabela com número, quadrado e cubo
-- Converte caracteres para seus valores numéricos
-- Executa exercícios independentes em classes separadas
+- Decompor um número em posições de vetor
+- Exibir tabela com número, quadrado e cubo
+- Converter caracteres para seus valores numéricos
+- Executar exercícios independentes em classes separadas
 
 ## Tecnologias usadas
 
@@ -37,3 +37,4 @@ java Atividade1a
 ```
 
 6. Repita para Atividade1b, Atividade1c e Atividade1d conforme necessário.
+

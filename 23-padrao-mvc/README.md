@@ -1,4 +1,4 @@
-# Padrão MVC
+﻿# Padrão MVC
 
 Projeto para organizar uma aplicação Java nas camadas Model, View e Controller.
 
@@ -9,10 +9,10 @@ Projeto para organizar uma aplicação Java nas camadas Model, View e Controller
 
 ## Funcionalidades
 
-- Model representa dados de aluno
-- View exibe e recebe dados em interface gráfica
-- Controller coordena ações entre model e view
-- Classe de teste inicializa o fluxo completo MVC
+- Representar dados de aluno no Model
+- Exibir e receber dados na View em interface gráfica
+- Coordenar ações no Controller entre model e view
+- Inicializar o fluxo completo MVC na classe de teste
 
 ## Tecnologias usadas
 
@@ -27,3 +27,4 @@ Projeto para organizar uma aplicação Java nas camadas Model, View e Controller
 3. Abra a pasta 23-padrao-mvc em uma IDE Java
 4. Importe o projeto como projeto Java (a pasta contém arquivos de configuração de projeto)
 5. Execute a classe TesteMVC em src/TesteMVC.java
+

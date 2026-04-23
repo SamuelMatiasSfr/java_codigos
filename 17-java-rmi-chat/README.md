@@ -1,4 +1,4 @@
-# Java RMI Chat
+﻿# Java RMI Chat
 
 Aplicação de chat distribuído com comunicação remota entre cliente e servidor via Java RMI.
 
@@ -10,9 +10,9 @@ Aplicação de chat distribuído com comunicação remota entre cliente e servid
 
 ## Funcionalidades
 
-- Inicia servidor remoto com registro de serviço
-- Conecta cliente ao servidor pelo registry RMI
-- Troca mensagens por métodos remotos
+- Iniciar servidor remoto com registro de serviço
+- Conectar cliente ao servidor pelo registry RMI
+- Trocar mensagens por métodos remotos
 
 ## Tecnologias usadas
 
@@ -41,3 +41,4 @@ java ChatServidor
 ```bash
 java ChatCliente
 ```
+

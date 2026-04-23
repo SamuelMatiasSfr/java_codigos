@@ -1,4 +1,4 @@
-# Substituição de Palavras em Arquivo
+﻿# Substituição de Palavras em Arquivo
 
 Ferramenta de console para pesquisar e substituir palavras em arquivos de texto.
 
@@ -10,9 +10,9 @@ Ferramenta de console para pesquisar e substituir palavras em arquivos de texto.
 
 ## Funcionalidades
 
-- Pesquisa uma palavra e informa linhas de ocorrência
-- Substitui termos no texto e grava resultado em arquivo auxiliar
-- Processa arquivos informados por parâmetro ou via console
+- Pesquisar uma palavra e informar linhas de ocorrência
+- Substituir termos no texto e gravar resultado em arquivo auxiliar
+- Processar arquivos informados por parâmetro ou via console
 
 ## Tecnologias usadas
 
@@ -40,3 +40,4 @@ java PesquisaArquivo
 ```bash
 java SubstituiPalavra
 ```
+

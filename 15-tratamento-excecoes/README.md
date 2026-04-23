@@ -1,4 +1,4 @@
-# Tratamento de Exceções
+﻿# Tratamento de Exceções
 
 Projeto com exemplos de exceções personalizadas e validações de regras de negócio.
 
@@ -10,9 +10,9 @@ Projeto com exemplos de exceções personalizadas e validações de regras de ne
 
 ## Funcionalidades
 
-- Valida operações financeiras com exceção específica
-- Realiza divisão com regra para números pares
-- Demonstra captura e tratamento de diferentes erros
+- Validar operações financeiras com exceção específica
+- Realizar divisão com regra para números pares
+- Demonstrar captura e tratamento de diferentes erros
 
 ## Tecnologias usadas
 
@@ -35,3 +35,4 @@ javac *.java
 ```bash
 java Main
 ```
+

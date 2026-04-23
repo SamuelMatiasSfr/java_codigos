@@ -1,4 +1,4 @@
-# POO com Polimorfismo
+﻿# POO com Polimorfismo
 
 Projeto para demonstrar polimorfismo com classes de mamíferos e chamada dinâmica de métodos.
 
@@ -10,9 +10,9 @@ Projeto para demonstrar polimorfismo com classes de mamíferos e chamada dinâmi
 
 ## Funcionalidades
 
-- Cria diferentes mamíferos em uma mesma lista
-- Executa métodos comuns com comportamento específico por tipo
-- Simula cenário de zoológico com interação entre objetos
+- Criar diferentes mamíferos em uma mesma lista
+- Executar métodos comuns com comportamento específico por tipo
+- Simular cenário de zoológico com interação entre objetos
 
 ## Tecnologias usadas
 
@@ -34,3 +34,4 @@ javac -d . *.java
 ```bash
 java br.com.alissonrs.polimorfismo.Zoologico
 ```
+

@@ -1,4 +1,4 @@
-# Java RMI Cadastro de Pessoas
+﻿# Java RMI Cadastro de Pessoas
 
 Sistema distribuído para cadastro de pessoas com operações remotas e dados persistidos em CSV.
 
@@ -10,9 +10,9 @@ Sistema distribuído para cadastro de pessoas com operações remotas e dados pe
 
 ## Funcionalidades
 
-- Inicia servidor remoto com operações de cadastro e consulta
-- Carrega e manipula dados de pessoas no arquivo pessoal.csv
-- Permite interação via cliente e janela gráfica
+- Iniciar servidor remoto com operações de cadastro e consulta
+- Carregar e manipular dados de pessoas no arquivo pessoal.csv
+- Permitir interação via cliente e janela gráfica
 
 ## Tecnologias usadas
 
@@ -49,3 +49,4 @@ ou
 ```bash
 java Janela
 ```
+

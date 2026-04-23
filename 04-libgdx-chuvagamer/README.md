@@ -1,4 +1,4 @@
-# LibGDX Chuva Game
+﻿# LibGDX Chuva Game
 
 Jogo 2D desenvolvido com LibGDX em que o jogador movimenta um balde para coletar gotas.
 
@@ -10,10 +10,10 @@ Jogo 2D desenvolvido com LibGDX em que o jogador movimenta um balde para coletar
 
 ## Funcionalidades
 
-- Move o balde com entrada do usuário
-- Gera gotas em posições aleatórias
-- Detecta colisões e atualiza pontuação
-- Reproduz áudio de fundo e efeitos sonoros
+- Mover o balde com entrada do usuário
+- Gerar gotas em posições aleatórias
+- Detectar colisões e atualizar pontuação
+- Reproduzir áudio de fundo e efeitos sonoros
 
 ## Tecnologias usadas
 
@@ -27,3 +27,4 @@ Jogo 2D desenvolvido com LibGDX em que o jogador movimenta um balde para coletar
 3. Abra a pasta 04-libgdx-chuvagamer em uma IDE Java
 4. Garanta que as bibliotecas da pasta libs estejam configuradas no classpath do projeto
 5. Execute a classe DesktopStarter no caminho src/com/gpjecc/blogspot/chuvagame
+

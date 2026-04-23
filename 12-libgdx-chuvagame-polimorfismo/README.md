@@ -1,4 +1,4 @@
-# LibGDX Chuva Game com Polimorfismo
+﻿# LibGDX Chuva Game com Polimorfismo
 
 Jogo 2D com múltiplos objetos em queda, aplicando herança e polimorfismo no loop principal.
 
@@ -9,9 +9,9 @@ Jogo 2D com múltiplos objetos em queda, aplicando herança e polimorfismo no lo
 
 ## Funcionalidades
 
-- Processa diferentes tipos de objetos em queda no mesmo fluxo
-- Aplica comportamentos distintos para cada tipo de objeto
-- Mantém controle de pontuação e colisões com o jogador
+- Processar diferentes tipos de objetos em queda no mesmo fluxo
+- Aplicar comportamentos distintos para cada tipo de objeto
+- Manter controle de pontuação e colisões com o jogador
 
 ## Tecnologias usadas
 
@@ -25,3 +25,4 @@ Jogo 2D com múltiplos objetos em queda, aplicando herança e polimorfismo no lo
 3. Abra a pasta 12-libgdx-chuvagame-polimorfismo em uma IDE Java
 4. Garanta que as bibliotecas da pasta libs estejam configuradas no classpath do projeto
 5. Execute a classe DesktopStarter no caminho src/gpjecc/blogspot/com
+

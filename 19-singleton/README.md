@@ -1,4 +1,4 @@
-# Singleton
+﻿# Singleton
 
 Projeto para praticar o padrão Singleton em um cenário de jogo simples com interface gráfica.
 
@@ -9,9 +9,9 @@ Projeto para praticar o padrão Singleton em um cenário de jogo simples com int
 
 ## Funcionalidades
 
-- Garante instância única da classe principal de jogo
-- Executa janela com elementos gráficos em tempo de execução
-- Disponibiliza classe de teste para validar comportamento singleton
+- Garantir instância única da classe principal de jogo
+- Executar janela com elementos gráficos em tempo de execução
+- Disponibilizar classe de teste para validar comportamento singleton
 
 ## Tecnologias usadas
 
@@ -41,3 +41,4 @@ java Jogo
 ```bash
 java TestadorDeClasse
 ```
+

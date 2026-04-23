@@ -1,4 +1,4 @@
-# Java Swing CRUD com Arquivo
+﻿# Java Swing CRUD com Arquivo
 
 Aplicação Swing para cadastro de registros com operações CRUD e persistência em CSV.
 
@@ -9,9 +9,9 @@ Aplicação Swing para cadastro de registros com operações CRUD e persistênci
 
 ## Funcionalidades
 
-- Cadastra registros com campos de identificação
-- Permite consultar, editar e remover dados pela interface
-- Salva e recarrega dados do arquivo dados.csv
+- Cadastrar registros com campos de identificação
+- Permitir consultar, editar e remover dados pela interface
+- Salvar e recarregar dados do arquivo dados.csv
 
 ## Tecnologias usadas
 
@@ -35,3 +35,4 @@ javac MyJFrame.java
 ```bash
 java MyJFrame
 ```
+

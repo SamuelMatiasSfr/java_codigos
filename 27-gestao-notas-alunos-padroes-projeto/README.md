@@ -1,4 +1,4 @@
-# Gestão de Notas de Alunos com Padrões de Projeto
+﻿# Gestão de Notas de Alunos com Padrões de Projeto
 
 Sistema de notas de alunos com DAO, Proxy e Singleton integrado a banco MySQL.
 
@@ -9,9 +9,9 @@ Sistema de notas de alunos com DAO, Proxy e Singleton integrado a banco MySQL.
 
 ## Funcionalidades
 
-- Cadastra e consulta notas de alunos no banco
-- Calcula médias e permite atualizar notas
-- Usa DAO para acesso a dados, Proxy para controle e Singleton para instância única
+- Cadastrar e consultar notas de alunos no banco
+- Calcular médias e permitir atualizar notas
+- Usar DAO para acesso a dados, Proxy para controle e Singleton para instância única
 
 ## Tecnologias usadas
 
@@ -39,3 +39,4 @@ javac -cp ".;mysql-connector-java-8.0.15.jar" Main.java
 ```bash
 java -cp ".;mysql-connector-java-8.0.15.jar" Main
 ```
+

@@ -1,4 +1,4 @@
-# Java RMI Jogo da Forca
+﻿# Java RMI Jogo da Forca
 
 Jogo da forca distribuído com servidor RMI responsável pela lógica e cliente para interação.
 
@@ -10,9 +10,9 @@ Jogo da forca distribuído com servidor RMI responsável pela lógica e cliente 
 
 ## Funcionalidades
 
-- Servidor RMI seleciona palavra e controla tentativas
-- Cliente envia letras e recebe retorno do estado do jogo
-- Usa arquivo palavras.txt como base de palavras
+- Selecionar palavra e controlar tentativas no servidor RMI
+- Enviar letras e receber retorno do estado do jogo no cliente
+- Usar arquivo palavras.txt como base de palavras
 
 ## Tecnologias usadas
 
@@ -41,3 +41,4 @@ java Servidor
 ```bash
 java ClienteForca
 ```
+

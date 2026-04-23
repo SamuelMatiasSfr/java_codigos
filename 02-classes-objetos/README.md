@@ -1,4 +1,4 @@
-# Classes e Objetos
+﻿# Classes e Objetos
 
 Projeto de introdução a Programação Orientada a Objetos com cadastro simples de alunos.
 
@@ -9,9 +9,9 @@ Projeto de introdução a Programação Orientada a Objetos com cadastro simples
 
 ## Funcionalidades
 
-- Cria objetos de aluno com dados acadêmicos
-- Valida senha com regras de tamanho
-- Armazena alunos em lista para manipulação
+- Criar objetos de aluno com dados acadêmicos
+- Validar senha com regras de tamanho
+- Armazenar alunos em lista para manipulação
 
 ## Tecnologias usadas
 
@@ -34,3 +34,4 @@ javac ClassesObjetos.java
 ```bash
 java ClassesObjetos
 ```
+

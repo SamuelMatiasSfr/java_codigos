@@ -1,4 +1,4 @@
-# POO com Herança
+﻿# POO com Herança
 
 Projeto para demonstrar herança entre classes de animais e comportamento polimórfico.
 
@@ -10,9 +10,9 @@ Projeto para demonstrar herança entre classes de animais e comportamento polim�
 
 ## Funcionalidades
 
-- Define classe base Animal e classe intermediária Mamifero
-- Implementa subclasses como Cachorro e Vaca
-- Executa simulação em Zoologico com sons e comportamentos
+- Definir classe base Animal e classe intermediária Mamifero
+- Implementar subclasses como Cachorro e Vaca
+- Executar simulação em Zoologico com sons e comportamentos
 
 ## Tecnologias usadas
 
@@ -34,3 +34,4 @@ javac *.java
 ```bash
 java Zoologico
 ```
+

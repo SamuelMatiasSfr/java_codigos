@@ -1,4 +1,4 @@
-# Conexão com Banco de Dados
+﻿# Conexão com Banco de Dados
 
 Projeto de conexão JDBC com MySQL para leitura de dados de uma base relacional.
 
@@ -10,9 +10,9 @@ Projeto de conexão JDBC com MySQL para leitura de dados de uma base relacional.
 
 ## Funcionalidades
 
-- Abre conexão com banco de dados
-- Executa consultas em tabelas relacionadas
-- Monta listas de entidades com os resultados obtidos
+- Abrir conexão com banco de dados
+- Executar consultas em tabelas relacionadas
+- Montar listas de entidades com os resultados obtidos
 
 ## Tecnologias usadas
 
@@ -39,3 +39,4 @@ javac -cp ".;mysql-connector-java-8.0.15.jar" ConexaoMaisSimples.java
 ```bash
 java -cp ".;mysql-connector-java-8.0.15.jar" ConexaoMaisSimples
 ```
+

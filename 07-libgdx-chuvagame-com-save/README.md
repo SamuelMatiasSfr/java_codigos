@@ -1,4 +1,4 @@
-# LibGDX Chuva Game com Save
+﻿# LibGDX Chuva Game com Save
 
 Versão do jogo de chuva com persistência de estado para continuar a partida.
 
@@ -10,9 +10,9 @@ Versão do jogo de chuva com persistência de estado para continuar a partida.
 
 ## Funcionalidades
 
-- Salva informações de jogo como pontos e vidas
-- Carrega progresso salvo ao iniciar
-- Mantém gameplay de coleta de gotas com pontuação
+- Salvar informações de jogo como pontos e vidas
+- Carregar progresso salvo ao iniciar
+- Manter gameplay de coleta de gotas com pontuação
 
 ## Tecnologias usadas
 
@@ -26,3 +26,4 @@ Versão do jogo de chuva com persistência de estado para continuar a partida.
 3. Abra a pasta 07-libgdx-chuvagame-com-save em uma IDE Java
 4. Garanta que as bibliotecas da pasta libs estejam configuradas no classpath do projeto
 5. Execute a classe DesktopStarter no caminho src/com/gpjecc/blogspot/chuvagame
+

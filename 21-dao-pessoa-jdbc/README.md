@@ -1,4 +1,4 @@
-# DAO Pessoa com JDBC
+﻿# DAO Pessoa com JDBC
 
 Projeto de acesso a dados com padrão DAO para operações de pessoa em banco MySQL.
 
@@ -10,9 +10,9 @@ Projeto de acesso a dados com padrão DAO para operações de pessoa em banco My
 
 ## Funcionalidades
 
-- Define contrato DAO para entidade Pessoa
-- Implementa acesso a banco com JDBC
-- Lista e manipula registros de pessoas pelo programa principal
+- Definir contrato DAO para entidade Pessoa
+- Implementar acesso a banco com JDBC
+- Listar e manipular registros de pessoas pelo programa principal
 
 ## Tecnologias usadas
 
@@ -40,3 +40,4 @@ javac -cp ".;mysql-connector-java-8.0.15.jar" Main.java
 ```bash
 java -cp ".;mysql-connector-java-8.0.15.jar" Main
 ```
+

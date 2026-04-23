@@ -1,4 +1,4 @@
-# Java Swing
+﻿# Java Swing
 
 Conjunto de aplicações desktop com interface gráfica para praticar eventos e componentes Swing.
 
@@ -10,9 +10,9 @@ Conjunto de aplicações desktop com interface gráfica para praticar eventos e 
 
 ## Funcionalidades
 
-- Conversão de temperatura entre Celsius e Fahrenheit
-- Jogo de adivinhação com dicas e contagem de tentativas
-- Exibição de mensagens e resultados em janela
+- Converter temperatura entre Celsius e Fahrenheit
+- Executar jogo de adivinhação com dicas e contagem de tentativas
+- Exibir mensagens e resultados em janela
 
 ## Tecnologias usadas
 
@@ -41,3 +41,4 @@ ou
 ```bash
 java JogoAdivinhaNumero
 ```
+

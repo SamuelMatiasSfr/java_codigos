@@ -1,4 +1,4 @@
-# DAO Pessoa com Arquivo e Swing
+﻿# DAO Pessoa com Arquivo e Swing
 
 Aplicação com padrão DAO e interface gráfica para gerenciar cadastro de pessoas em arquivo CSV.
 
@@ -10,9 +10,9 @@ Aplicação com padrão DAO e interface gráfica para gerenciar cadastro de pess
 
 ## Funcionalidades
 
-- Implementa operações de cadastro de pessoa via DAO
-- Persiste dados no arquivo tabela.csv
-- Exibe e manipula dados em janela Swing
+- Implementar operações de cadastro de pessoa via DAO
+- Persistir dados no arquivo tabela.csv
+- Exibir e manipular dados em janela Swing
 
 ## Tecnologias usadas
 
@@ -37,3 +37,4 @@ javac *.java
 ```bash
 java TabelaGUI
 ```
+

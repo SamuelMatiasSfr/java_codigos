@@ -1,4 +1,4 @@
-# Java Swing CRUD com JDBC
+﻿# Java Swing CRUD com JDBC
 
 Aplicação desktop com interface Swing e operações CRUD persistidas em banco MySQL.
 
@@ -10,9 +10,9 @@ Aplicação desktop com interface Swing e operações CRUD persistidas em banco 
 
 ## Funcionalidades
 
-- Cadastra, consulta, atualiza e remove pessoas via interface
-- Conecta ao MySQL para persistir os dados
-- Exibe campos de cadastro e controle de operações em janela gráfica
+- Cadastrar, consultar, atualizar e remover pessoas via interface
+- Conectar ao MySQL para persistir os dados
+- Exibir campos de cadastro e controle de operações em janela gráfica
 
 ## Tecnologias usadas
 
@@ -46,3 +46,4 @@ ou
 ```bash
 java MyJFrame
 ```
+

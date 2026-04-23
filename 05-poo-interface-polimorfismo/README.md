@@ -1,4 +1,4 @@
-# POO com Interface e Polimorfismo
+﻿# POO com Interface e Polimorfismo
 
 Projeto que aplica interfaces para cálculo de tributos em diferentes tipos de objetos.
 
@@ -9,9 +9,9 @@ Projeto que aplica interfaces para cálculo de tributos em diferentes tipos de o
 
 ## Funcionalidades
 
-- Define interface tributável com contrato de cálculo
-- Calcula tributos de diferentes entidades
-- Acumula total de impostos em um gerenciador
+- Definir interface tributável com contrato de cálculo
+- Calcular tributos de diferentes entidades
+- Acumular total de impostos em um gerenciador
 
 ## Tecnologias usadas
 
@@ -33,3 +33,4 @@ javac *.java
 ```bash
 java TestaGerenciador
 ```
+

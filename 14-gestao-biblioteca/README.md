@@ -1,4 +1,4 @@
-# Gestão de Biblioteca
+﻿# Gestão de Biblioteca
 
 Sistema para gerenciar publicações de diferentes tipos com suporte a arquivo e interface gráfica.
 
@@ -10,9 +10,9 @@ Sistema para gerenciar publicações de diferentes tipos com suporte a arquivo e
 
 ## Funcionalidades
 
-- Gerencia publicações como filme, software e gravação
-- Registra e lê dados em arquivo CSV
-- Permite execução por classe principal ou interface gráfica
+- Gerenciar publicações como filme, software e gravação
+- Registrar e ler dados em arquivo CSV
+- Permitir execução por classe principal ou interface gráfica
 
 ## Tecnologias usadas
 
@@ -42,3 +42,4 @@ java Principal
 ```bash
 java MyJFrame
 ```
+

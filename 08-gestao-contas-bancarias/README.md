@@ -1,4 +1,4 @@
-# Gestão de Contas Bancárias
+﻿# Gestão de Contas Bancárias
 
 Sistema de gerenciamento de contas com leitura de dados em CSV e separação por tipo.
 
@@ -9,9 +9,9 @@ Sistema de gerenciamento de contas com leitura de dados em CSV e separação por
 
 ## Funcionalidades
 
-- Carrega contas do arquivo contas.csv
-- Diferencia contas comuns, especiais e poupança
-- Exibe totais e listagens de contas por categoria
+- Carregar contas do arquivo contas.csv
+- Diferenciar contas comuns, especiais e poupança
+- Exibir totais e listagens de contas por categoria
 
 ## Tecnologias usadas
 
@@ -34,3 +34,4 @@ javac *.java
 ```bash
 java Main
 ```
+

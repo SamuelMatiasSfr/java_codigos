@@ -1,4 +1,4 @@
-# POO com Herança de Veículos
+﻿# POO com Herança de Veículos
 
 Projeto orientado a objetos com hierarquia de veículos para praticar herança e validações.
 
@@ -9,9 +9,9 @@ Projeto orientado a objetos com hierarquia de veículos para praticar herança e
 
 ## Funcionalidades
 
-- Define classe base para móveis e veículos
-- Implementa especializações como esportivo e carga
-- Executa cenários de teste nas classes de questões
+- Definir classe base para móveis e veículos
+- Implementar especializações como esportivo e carga
+- Executar cenários de teste nas classes de questões
 
 ## Tecnologias usadas
 
@@ -39,3 +39,4 @@ ou
 ```bash
 java Questao3
 ```
+
