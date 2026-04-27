@@ -14,7 +14,7 @@ Aplicação desktop com interface Swing e operações CRUD persistidas em banco 
 - Conectar ao MySQL para persistir os dados
 - Exibir campos de cadastro e controle de operações em janela gráfica
 
-## Tecnologias usadas
+## Tecnologias Usadas
 
 - Java
 - Java Swing
@@ -23,20 +23,19 @@ Aplicação desktop com interface Swing e operações CRUD persistidas em banco 
 - MySQL
 - VS Code
 
-## Como executar
+## Como Executar
 
-1. Baixe o repositório em formato zip
-2. Extraia o zip em uma pasta local
-3. Abra a pasta 25-java-swing-crud-jdbc no terminal ou IDE
-4. Configure o banco MySQL com a estrutura esperada pelo código, usando o script do arquivo script_banco.txt
-5. Garanta que o arquivo mysql-connector-java-8.0.15.jar esteja dentro da pasta do projeto
-6. Compile os arquivos Java:
+1. Baixe e extraia o arquivo `.zip` do repositório
+2. Abra a pasta `25-java-swing-crud-jdbc` no terminal ou IDE
+3. Configure o banco MySQL com a estrutura esperada pelo código, usando o script do arquivo `script_banco.txt`
+4. Garanta que o arquivo `mysql-connector-java-8.0.15.jar` esteja dentro da pasta do projeto
+5. Compile os arquivos Java:
 
 ```bash
 javac *.java
 ```
 
-7. Execute a aplicação:
+6. Execute a aplicação:
 
 ```bash
 java Principal

@@ -14,7 +14,7 @@ Projeto de acesso a dados com padrão DAO para operações de pessoa em banco My
 - Implementar acesso a banco com JDBC
 - Listar e manipular registros de pessoas pelo programa principal
 
-## Tecnologias usadas
+## Tecnologias Usadas
 
 - Java
 - JDBC
@@ -23,20 +23,19 @@ Projeto de acesso a dados com padrão DAO para operações de pessoa em banco My
 - Padrão de Projeto DAO
 - VS Code
 
-## Como executar
+## Como Executar
 
-1. Baixe o repositório em formato zip
-2. Extraia o zip em uma pasta local
-3. Abra a pasta 21-dao-pessoa-jdbc no terminal ou IDE
-4. Garanta que o arquivo mysql-connector-java-8.0.15.jar esteja dentro da pasta do projeto
-5. Configure o banco MySQL com a estrutura esperada pelo código, usando o script do arquivo script_banco.txt
-6. Compile conforme orientação do projeto:
+1. Baixe e extraia o arquivo `.zip` do repositório
+2. Abra a pasta `21-dao-pessoa-jdbc` no terminal ou IDE
+3. Garanta que o arquivo `mysql-connector-java-8.0.15.jar` esteja dentro da pasta do projeto
+4. Configure o banco MySQL com a estrutura esperada pelo código, usando o script do arquivo `script_banco.txt`
+5. Compile conforme orientação do projeto:
 
 ```bash
 javac -cp ".;mysql-connector-java-8.0.15.jar" Main.java
 ```
 
-7. Execute conforme orientação do projeto:
+6. Execute conforme orientação do projeto:
 
 ```bash
 java -cp ".;mysql-connector-java-8.0.15.jar" Main

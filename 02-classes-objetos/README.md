@@ -13,23 +13,22 @@ Projeto de introdução a Programação Orientada a Objetos com cadastro simples
 - Validar senha com regras de tamanho
 - Armazenar alunos em lista para manipulação
 
-## Tecnologias usadas
+## Tecnologias Usadas
 
 - Java
 - VS Code
 
-## Como executar
+## Como Executar
 
-1. Baixe o repositório em formato zip
-2. Extraia o zip em uma pasta local
-3. Abra a pasta 02-classes-objetos no terminal ou IDE
-4. Compile o arquivo principal:
+1. Baixe e extraia o arquivo `.zip` do repositório
+2. Abra a pasta `02-classes-objetos` no terminal ou IDE
+3. Compile o arquivo principal:
 
 ```bash
 javac ClassesObjetos.java
 ```
 
-5. Execute o programa:
+4. Execute o programa:
 
 ```bash
 java ClassesObjetos

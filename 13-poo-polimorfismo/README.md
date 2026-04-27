@@ -14,23 +14,22 @@ Projeto para demonstrar polimorfismo com classes de mamíferos e chamada dinâmi
 - Executar métodos comuns com comportamento específico por tipo
 - Simular cenário de zoológico com interação entre objetos
 
-## Tecnologias usadas
+## Tecnologias Usadas
 
 - Java
 - VS Code
 
-## Como executar
+## Como Executar
 
-1. Baixe o repositório em formato zip
-2. Extraia o zip em uma pasta local
-3. Abra a pasta 13-poo-polimorfismo no terminal ou IDE
-4. Compile os arquivos Java gerando os pacotes:
+1. Baixe e extraia o arquivo `.zip` do repositório
+2. Abra a pasta `13-poo-polimorfismo` no terminal ou IDE
+3. Compile os arquivos Java gerando os pacotes:
 
 ```bash
 javac -d . *.java
 ```
 
-5. Execute a classe principal:
+4. Execute a classe principal:
 
 ```bash
 java br.com.alissonrs.polimorfismo.Zoologico

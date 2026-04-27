@@ -14,24 +14,23 @@ Conjunto de aplicações desktop com interface gráfica para praticar eventos e 
 - Executar jogo de adivinhação com dicas e contagem de tentativas
 - Exibir mensagens e resultados em janela
 
-## Tecnologias usadas
+## Tecnologias Usadas
 
 - Java
 - Java Swing
 - VS Code
 
-## Como executar
+## Como Executar
 
-1. Baixe o repositório em formato zip
-2. Extraia o zip em uma pasta local.
-3. Abra a pasta 10-java-swing no terminal ou IDE
-4. Compile os arquivos Java:
+1. Baixe e extraia o arquivo `.zip` do repositório
+2. Abra a pasta `10-java-swing` no terminal ou IDE
+3. Compile os arquivos Java:
 
 ```bash
 javac *.java
 ```
 
-5. Execute uma das aplicações:
+4. Execute uma das aplicações:
 
 ```bash
 java MyJFrame

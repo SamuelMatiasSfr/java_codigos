@@ -15,27 +15,26 @@ Conjunto de atividades introdutórias para praticar fundamentos da linguagem Jav
 - Converter caracteres para seus valores numéricos
 - Executar exercícios independentes em classes separadas
 
-## Tecnologias usadas
+## Tecnologias Usadas
 
 - Java
 - VS Code
 
-## Como executar
+## Como Executar
 
-1. Baixe o repositório em formato zip.
-2. Extraia o zip em uma pasta local.
-3. Abra a pasta 01-java-exercicios-basicos no terminal ou IDE.
-4. Compile o arquivo desejado, por exemplo:
+1. Baixe e extraia o arquivo `.zip` do repositório
+2. Abra a pasta `01-java-exercicios-basicos` no terminal ou IDE
+3. Compile o arquivo desejado, por exemplo:
 
 ```bash
 javac Atividade1a.java
 ```
 
-5. Execute a classe compilada, por exemplo:
+4. Execute a classe compilada, por exemplo:
 
 ```bash
 java Atividade1a
 ```
 
-6. Repita para Atividade1b, Atividade1c e Atividade1d conforme necessário.
+5. Repita para Atividade1b, Atividade1c e Atividade1d conforme necessário
 

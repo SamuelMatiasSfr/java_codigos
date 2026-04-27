@@ -13,24 +13,23 @@ Aplicação Swing para cadastro de registros com operações CRUD e persistênci
 - Permitir consultar, editar e remover dados pela interface
 - Salvar e recarregar dados do arquivo dados.csv
 
-## Tecnologias usadas
+## Tecnologias Usadas
 
 - Java
 - Java Swing
 - VS Code
 
-## Como executar
+## Como Executar
 
-1. Baixe o repositório em formato zip
-2. Extraia o zip em uma pasta local
-3. Abra a pasta 11-java-swing-crud-arquivo no terminal ou IDE
-4. Compile o arquivo principal:
+1. Baixe e extraia o arquivo `.zip` do repositório
+2. Abra a pasta `11-java-swing-crud-arquivo` no terminal ou IDE
+3. Compile o arquivo principal:
 
 ```bash
 javac MyJFrame.java
 ```
 
-5. Execute a aplicação:
+4. Execute a aplicação:
 
 ```bash
 java MyJFrame

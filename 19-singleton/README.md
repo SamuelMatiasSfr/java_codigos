@@ -13,31 +13,30 @@ Projeto para praticar o padrão Singleton em um cenário de jogo simples com int
 - Executar janela com elementos gráficos em tempo de execução
 - Disponibilizar classe de teste para validar comportamento singleton
 
-## Tecnologias usadas
+## Tecnologias Usadas
 
 - Java
 - Java Swing
 - Padrão de Projeto Singleton
 - VS Code
 
-## Como executar
+## Como Executar
 
-1. Baixe o repositório em formato zip
-2. Extraia o zip em uma pasta local
-3. Abra a pasta 19-singleton no terminal ou IDE
-4. Compile os arquivos Java:
+1. Baixe e extraia o arquivo `.zip` do repositório
+2. Abra a pasta `19-singleton` no terminal ou IDE
+3. Compile os arquivos Java:
 
 ```bash
 javac *.java
 ```
 
-5. Execute o jogo:
+4. Execute o jogo:
 
 ```bash
 java Jogo
 ```
 
-6. Para testar a implementação do padrão, execute também:
+5. Para testar a implementação do padrão, execute também:
 
 ```bash
 java TestadorDeClasse

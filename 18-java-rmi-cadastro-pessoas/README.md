@@ -14,31 +14,30 @@ Sistema distribuído para cadastro de pessoas com operações remotas e dados pe
 - Carregar e manipular dados de pessoas no arquivo pessoal.csv
 - Permitir interação via cliente e janela gráfica
 
-## Tecnologias usadas
+## Tecnologias Usadas
 
 - Java
 - Java RMI
 - Java Swing
 - VS Code
 
-## Como executar
+## Como Executar
 
-1. Baixe o repositório em formato zip
-2. Extraia o zip em uma pasta local
-3. Abra dois terminais na pasta 18-java-rmi-cadastro-pessoas
-4. Compile os arquivos Java:
+1. Baixe e extraia o arquivo `.zip` do repositório
+2. Abra dois terminais na pasta `18-java-rmi-cadastro-pessoas`
+3. Compile os arquivos Java:
 
 ```bash
 javac *.java
 ```
 
-5. Inicie o servidor:
+4. Inicie o servidor:
 
 ```bash
 java ServidorInterfacePessoaImplementada
 ```
 
-6. No segundo terminal, execute o cliente gráfico:
+5. No segundo terminal, execute o cliente gráfico:
 
 ```bash
 java Cliente

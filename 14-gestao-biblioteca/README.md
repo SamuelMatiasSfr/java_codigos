@@ -14,30 +14,29 @@ Sistema para gerenciar publicações de diferentes tipos com suporte a arquivo e
 - Registrar e ler dados em arquivo CSV
 - Permitir execução por classe principal ou interface gráfica
 
-## Tecnologias usadas
+## Tecnologias Usadas
 
 - Java
 - Java Swing
 - VS Code
 
-## Como executar
+## Como Executar
 
-1. Baixe o repositório em formato zip
-2. Extraia o zip em uma pasta local
-3. Abra a pasta 14-gestao-biblioteca no terminal ou IDE
-4. Compile os arquivos Java:
+1. Baixe e extraia o arquivo `.zip` do repositório
+2. Abra a pasta `14-gestao-biblioteca` no terminal ou IDE
+3. Compile os arquivos Java:
 
 ```bash
 javac *.java
 ```
 
-5. Execute a versão de console:
+4. Execute a versão de console:
 
 ```bash
 java Principal
 ```
 
-6. Ou execute a interface gráfica:
+5. Ou execute a interface gráfica:
 
 ```bash
 java MyJFrame

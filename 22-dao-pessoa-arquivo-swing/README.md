@@ -14,25 +14,24 @@ Aplicação com padrão DAO e interface gráfica para gerenciar cadastro de pess
 - Persistir dados no arquivo tabela.csv
 - Exibir e manipular dados em janela Swing
 
-## Tecnologias usadas
+## Tecnologias Usadas
 
 - Java
 - Java Swing
 - Padrão de Projeto DAO
 - VS Code
 
-## Como executar
+## Como Executar
 
-1. Baixe o repositório em formato zip
-2. Extraia o zip em uma pasta local
-3. Abra a pasta 22-dao-pessoa-arquivo-swing no terminal ou IDE
-4. Compile os arquivos Java:
+1. Baixe e extraia o arquivo `.zip` do repositório
+2. Abra a pasta `22-dao-pessoa-arquivo-swing` no terminal ou IDE
+3. Compile os arquivos Java:
 
 ```bash
 javac *.java
 ```
 
-5. Execute a interface gráfica:
+4. Execute a interface gráfica:
 
 ```bash
 java TabelaGUI

@@ -1,6 +1,6 @@
 # Códigos em Java
 
-Estes projetos foram desenvolvidos como atividades práticas da matéria Linguagem e Técnicas de Programação 2 no curso técnico de informática do CEFET-MG.
+Estes projetos foram desenvolvidos como atividades práticas da matéria Linguagem e Técnicas de Programação II no curso técnico de informática do CEFET-MG.
 
 ## Objetivos
 
@@ -13,7 +13,7 @@ Estes projetos foram desenvolvidos como atividades práticas da matéria Linguag
 - Exercitar padrões de projeto, como Singleton, Proxy, DAO e MVC
 - Desenvolver tratamento de exceções e boas práticas de organização de código
 
-## Tecnologias usadas
+## Tecnologias Usadas
 
 - Java
 - Java Swing
@@ -24,12 +24,11 @@ Estes projetos foram desenvolvidos como atividades práticas da matéria Linguag
 - LibGDX
 - Padrões de Projeto (Singleton, Proxy, DAO, MVC)
 
-## Como executar
+## Como Executar
 
-1. Baixe e extraia o arquivo zip com os projetos
-2. Abra o projeto desejado na IDE de sua preferência
-3. Consulte o `README.md` da pasta do mini-projeto para os passos específicos
-4. Compile e execute a classe que possui a função `main`
+1. Baixe e extraia o arquivo `.zip` com os projetos
+2. Consulte o `README.md` da pasta do mini-projeto para os passos específicos
+3. Compile e execute a classe que possui a função `main`
 
 ## Projetos
 

@@ -14,30 +14,29 @@ Jogo da forca distribuído com servidor RMI responsável pela lógica e cliente 
 - Enviar letras e receber retorno do estado do jogo no cliente
 - Usar arquivo palavras.txt como base de palavras
 
-## Tecnologias usadas
+## Tecnologias Usadas
 
 - Java
 - Java RMI
 - VS Code
 
-## Como executar
+## Como Executar
 
-1. Baixe o repositório em formato zip
-2. Extraia o zip em uma pasta local
-3. Abra dois terminais na pasta 26-java-rmi-jogo-da-forca
-4. Compile os arquivos Java:
+1. Baixe e extraia o arquivo `.zip` do repositório
+2. Abra dois terminais na pasta `26-java-rmi-jogo-da-forca`
+3. Compile os arquivos Java:
 
 ```bash
 javac *.java
 ```
 
-5. Inicie o servidor:
+4. Inicie o servidor:
 
 ```bash
 java Servidor
 ```
 
-6. No segundo terminal, execute o cliente:
+5. No segundo terminal, execute o cliente:
 
 ```bash
 java ClienteForca

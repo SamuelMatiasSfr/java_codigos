@@ -14,18 +14,26 @@ Projeto para organizar uma aplicação Java nas camadas Model, View e Controller
 - Coordenar ações no Controller entre model e view
 - Inicializar o fluxo completo MVC na classe de teste
 
-## Tecnologias usadas
+## Tecnologias Usadas
 
 - Java
 - Java Swing
 - Padrão de Projeto MVC
 - VS Code
 
-## Como executar
+## Como Executar
 
-1. Baixe o repositório em formato zip
-2. Extraia o zip em uma pasta local
-3. Abra a pasta 23-padrao-mvc em uma IDE Java
-4. Importe o projeto como projeto Java (a pasta contém arquivos de configuração de projeto)
-5. Execute a classe TesteMVC em src/TesteMVC.java
+1. Baixe e extraia o arquivo `.zip` do repositório  
+2. Abra a pasta `23-padrao-mvc` no terminal ou em uma IDE Java  
+3. Compile os arquivos Java:
 
+```bash
+javac src/*.java
+```
+
+4. Execute a classe principal:
+
+
+```bash
+java src.TesteMVC
+```

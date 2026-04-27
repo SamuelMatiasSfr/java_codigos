@@ -14,29 +14,28 @@ Ferramenta de console para pesquisar e substituir palavras em arquivos de texto.
 - Substituir termos no texto e gravar resultado em arquivo auxiliar
 - Processar arquivos informados por parâmetro ou via console
 
-## Tecnologias usadas
+## Tecnologias Usadas
 
 - Java
 - VS Code
 
-## Como executar
+## Como Executar
 
-1. Baixe o repositório em formato zip
-2. Extraia o zip em uma pasta local
-3. Abra a pasta 06-substituicao-palavras-arquivo no terminal ou IDE
-4. Compile os arquivos Java:
+1. Baixe e extraia o arquivo `.zip` do repositório
+2. Abra a pasta `06-substituicao-palavras-arquivo` no terminal ou IDE
+3. Compile os arquivos Java:
 
 ```bash
 javac PesquisaArquivo.java SubstituiPalavra.java
 ```
 
-5. Execute a busca:
+4. Execute a busca:
 
 ```bash
 java PesquisaArquivo
 ```
 
-6. Execute a substituição:
+5. Execute a substituição:
 
 ```bash
 java SubstituiPalavra
